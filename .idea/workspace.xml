@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3ceb7629-2912-46e7-84cd-a705c0f2ca78" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ngZ36v1cEJs2m6hbgD8shWOUjC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="PyConsoleConfigurable.Python Console" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="Deep-Learning-with-PyTorch-Tutorials" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="Deep-Learning-with-PyTorch-Tutorials" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.loss的梯度">
+    <configuration name="01 合并和分割" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Deep-Learning-with-PyTorch-Tutorials" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson11-合并与分割" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson11-合并与分割/01 合并和分割.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="01 tensor统计" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Deep-Learning-with-PyTorch-Tutorials" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson13-Tensor统计" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson13-Tensor统计/01 tensor统计.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="01 tensor高阶" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Deep-Learning-with-PyTorch-Tutorials" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson14-Tensor高阶" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson14-Tensor高阶/01 tensor高阶.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="01 tensor的索引和切片" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Deep-Learning-with-PyTorch-Tutorials" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson08-索引与切片" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson08-索引与切片/01 tensor的索引和切片.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="01 tensor的索引和切片" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Deep-Learning-with-PyTorch-Tutorials" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson08-索引与切片" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson08-索引与切片/01 tensor的索引和切片.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="01 数学运算" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Deep-Learning-with-PyTorch-Tutorials" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson12-数学运算" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson12-数学运算/01 数学运算.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="loss的梯度" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Deep-Learning-with-PyTorch-Tutorials" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson18-激活函数与Loss的梯度" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson18-激活函数与Loss的梯度/loss的梯度.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.loss的梯度" />
+        <item itemvalue="Python.01 tensor统计" />
+        <item itemvalue="Python.01 数学运算" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ceb7629-2912-46e7-84cd-a705c0f2ca78" name="默认更改列表" comment="" />
+      <created>1611813491197</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611813491197</updated>
+      <workItem from="1611813508959" duration="5460000" />
+      <workItem from="1611901632502" duration="1487000" />
+      <workItem from="1615108031193" duration="1419000" />
+      <workItem from="1615167155828" duration="17805000" />
+      <workItem from="1615266693672" duration="3209000" />
+      <workItem from="1615443713280" duration="15335000" />
+      <workItem from="1615510956706" duration="15884000" />
+      <workItem from="1615597905168" duration="24623000" />
+      <workItem from="1615684492343" duration="12090000" />
+      <workItem from="1615771623643" duration="79132000" />
+      <workItem from="1616115229295" duration="17902000" />
+      <workItem from="1616207514002" duration="12498000" />
+      <workItem from="1616420014142" duration="1056000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="556" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1616132670131">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="556" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1616132670131" />
+    <state width="1330" height="156" key="GridCell.Tab.0.bottom" timestamp="1616225998339">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1330" height="156" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1616225998339" />
+    <state width="1330" height="156" key="GridCell.Tab.0.center" timestamp="1616225998338">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1330" height="156" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1616225998338" />
+    <state width="1330" height="156" key="GridCell.Tab.0.left" timestamp="1616225998338">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1330" height="156" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1616225998338" />
+    <state width="1330" height="156" key="GridCell.Tab.0.right" timestamp="1616225998338">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1330" height="156" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1616225998338" />
+    <state width="1330" height="295" key="GridCell.Tab.1.bottom" timestamp="1615806418825">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1330" height="295" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1615806418825" />
+    <state width="1330" height="295" key="GridCell.Tab.1.center" timestamp="1615806418825">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1330" height="295" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1615806418825" />
+    <state width="1330" height="295" key="GridCell.Tab.1.left" timestamp="1615806418825">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1330" height="295" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1615806418825" />
+    <state width="1330" height="295" key="GridCell.Tab.1.right" timestamp="1615806418825">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1330" height="295" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1615806418825" />
+    <state x="540" y="55" key="SettingsEditor" timestamp="1616133255230">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="540" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1616133255230" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1615627488510">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.0.1536.824@0.0.1536.824" timestamp="1615627488510" />
+    <state x="1002" y="146" width="672" height="678" key="search.everywhere.popup" timestamp="1616052650010">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="1002" y="146" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1616052650010" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Deep_Learning_with_PyTorch_Tutorials$main__3_.coverage" NAME="main (3) Coverage Results" MODIFIED="1615816190206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson30-Visdom可视化" />
+    <SUITE FILE_PATH="coverage/Deep_Learning_with_PyTorch_Tutorials$01_.coverage" NAME="01 数学运算 Coverage Results" MODIFIED="1616211614671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson12-数学运算" />
+    <SUITE FILE_PATH="coverage/Deep_Learning_with_PyTorch_Tutorials$resnet.coverage" NAME="resnet Coverage Results" MODIFIED="1616118455795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson45-Cifar10与ResNet18实战" />
+    <SUITE FILE_PATH="coverage/Deep_Learning_with_PyTorch_Tutorials$01type_check.coverage" NAME="01type-check Coverage Results" MODIFIED="1616150998960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson06-基本数据类型" />
+    <SUITE FILE_PATH="coverage/Deep_Learning_with_PyTorch_Tutorials$01_nn_linear.coverage" NAME="01 nn_linear Coverage Results" MODIFIED="1615805456237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson27-MLP网络层" />
+    <SUITE FILE_PATH="coverage/Deep_Learning_with_PyTorch_Tutorials$01_cross_entropy.coverage" NAME="01 cross entropy Coverage Results" MODIFIED="1615780361875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson25-交叉熵" />
+    <SUITE FILE_PATH="coverage/Deep_Learning_with_PyTorch_Tutorials$01_argmax.coverage" NAME="01 argmax Coverage Results" MODIFIED="1615810027462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson29-MNIST测试" />
+    <SUITE FILE_PATH="coverage/Deep_Learning_with_PyTorch_Tutorials$02_.coverage" NAME="02 基础数据类型 Coverage Results" MODIFIED="1616151662704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson06-基本数据类型" />
+    <SUITE FILE_PATH="coverage/Deep_Learning_with_PyTorch_Tutorials$main.coverage" NAME="main Coverage Results" MODIFIED="1616050469759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson43-nn.Module" />
+    <SUITE FILE_PATH="coverage/Deep_Learning_with_PyTorch_Tutorials$gd.coverage" NAME="gd Coverage Results" MODIFIED="1611813675502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson04-简单回归案例实战" />
+    <SUITE FILE_PATH="coverage/Deep_Learning_with_PyTorch_Tutorials$01_tensor.coverage" NAME="01 tensor高阶 Coverage Results" MODIFIED="1616213235122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson14-Tensor高阶" />
+    <SUITE FILE_PATH="coverage/Deep_Learning_with_PyTorch_Tutorials$01_broadcasting.coverage" NAME="01 broadcasting Coverage Results" MODIFIED="1615512393471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson10-Broadcasting" />
+    <SUITE FILE_PATH="coverage/Deep_Learning_with_PyTorch_Tutorials$loss.coverage" NAME="loss的梯度 Coverage Results" MODIFIED="1616214533134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson18-激活函数与Loss的梯度" />
+    <SUITE FILE_PATH="coverage/Deep_Learning_with_PyTorch_Tutorials$Loss.coverage" NAME="激活函数于Loss的梯度 Coverage Results" MODIFIED="1615640701429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson18-激活函数与Loss的梯度" />
+    <SUITE FILE_PATH="coverage/Deep_Learning_with_PyTorch_Tutorials$softmax.coverage" NAME="softmax激活函数 Coverage Results" MODIFIED="1615708967634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson18-激活函数与Loss的梯度" />
+    <SUITE FILE_PATH="coverage/Deep_Learning_with_PyTorch_Tutorials$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1616144155846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson45-Cifar10与ResNet18实战" />
+    <SUITE FILE_PATH="coverage/Deep_Learning_with_PyTorch_Tutorials$01_BatchNorm.coverage" NAME="01 BatchNorm Coverage Results" MODIFIED="1615964006191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson40-BatchNorm" />
+    <SUITE FILE_PATH="coverage/Deep_Learning_with_PyTorch_Tutorials$02_numerical_stability.coverage" NAME="02 numerical stability Coverage Results" MODIFIED="1615782281597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson25-交叉熵" />
+    <SUITE FILE_PATH="coverage/Deep_Learning_with_PyTorch_Tutorials$.coverage" NAME="池化层 Coverage Results" MODIFIED="1615961489082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson39-Pooling-Sampling" />
+    <SUITE FILE_PATH="coverage/Deep_Learning_with_PyTorch_Tutorials$03_nn_Relu_vs_F_relu.coverage" NAME="03 nn_Relu_vs_F_relu Coverage Results" MODIFIED="1615806418811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson27-MLP网络层" />
+    <SUITE FILE_PATH="coverage/Deep_Learning_with_PyTorch_Tutorials$lenet5.coverage" NAME="lenet5 Coverage Results" MODIFIED="1616059238440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson45-Cifar10与ResNet18实战" />
+    <SUITE FILE_PATH="coverage/Deep_Learning_with_PyTorch_Tutorials$main__2_.coverage" NAME="main (2) Coverage Results" MODIFIED="1615813897927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson28-激活函数与GPU加速" />
+    <SUITE FILE_PATH="coverage/Deep_Learning_with_PyTorch_Tutorials$xml.coverage" NAME="批量处理xml Coverage Results" MODIFIED="1616071750777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson45-Cifar10与ResNet18实战" />
+  </component>
+</project>
